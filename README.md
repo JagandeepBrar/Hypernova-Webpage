@@ -23,3 +23,6 @@ The URL must be the **entire** URL that is returned when loading Plex from an ex
 - Any logos are taken from their respective sites
 - The icon/logo for Hypernova is taken from [here](https://twitter.com/hypernovaserver)
   - (An attempt was made to contact the Twitter account, with no response. If there is ever an issue with the use with the logo, please let me know!)
+
+## Docker
+- Hypernova can be hosted on port 8080 with no additional modification by running `docker-compose up -d`
